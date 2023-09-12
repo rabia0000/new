@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@300&display=swap');
+
+body {
+    text-align: center;
+    font-family: 'Azeret Mono', monospace;
+    background-image: url('loupEtAgneau.jpg');
+    background-size: no-repeat; 
+    background-size: cover;
+     
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 20px;
+}
